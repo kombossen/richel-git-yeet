@@ -16,4 +16,4 @@ void draw()
   ellipse(mouseY, mouseX, 50, 50);  
 }
 
-probeer dit in processing en laatr je ouders het zien !!!!!!!
+dit is echt een leuke code toppie!!!!!!!
